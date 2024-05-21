@@ -1,0 +1,32 @@
+.input-container {
+    min-width: 426.17px;
+  }
+  .input-container .md-date-range{
+    width: 26.32px;
+    height: 26.32px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1rem;
+  }
+.input-container label{
+    display: block;
+    color: rgba(68, 68, 68, 1);
+    font-weight: 700;
+    font-size: 12.67px;
+    line-height: 15.33px;
+    margin-bottom: 5px;
+  }
+  
+  .input-container input {
+    border-radius: 8.54px;
+    border: none;
+    outline: 1px solid rgba(218, 218, 218, 1);
+    width: 100%;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 1);
+    height: 35px;
+    padding: 1px;
+    padding-left: 20px;
+  }
